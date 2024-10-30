@@ -1,0 +1,7 @@
+print("hello Python")
+print("ปิ่นทิพย์ รุ่งศรี")
+print("ปิ่น")
+print("19")
+print("22")
+print("67319010061")
+print("ดูหนัง") 
